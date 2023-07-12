@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Product-card/static/css/main.756af292.css",
+    "main.js": "/Product-card/static/js/main.5077b105.js",
+    "static/js/787.688c647c.chunk.js": "/Product-card/static/js/787.688c647c.chunk.js",
+    "static/media/macbook.png": "/Product-card/static/media/macbook.5f080d9e47bf46ca3fce.png",
+    "static/media/canon.png": "/Product-card/static/media/canon.c7785c796d0b2bf5aa2b.png",
+    "static/media/shirt.png": "/Product-card/static/media/shirt.dce93278370eb9a94e56.png",
+    "static/media/apple.png": "/Product-card/static/media/apple.87f6c2f48f7e15ed845b.png",
+    "static/media/google.png": "/Product-card/static/media/google.97c5ba65b7fece989a3a.png",
+    "static/media/oneplus.png": "/Product-card/static/media/oneplus.f494ca73e61d41c762bc.png",
+    "static/media/motorola.png": "/Product-card/static/media/motorola.cd3f3d1b1e0fd34073be.png",
+    "index.html": "/Product-card/index.html",
+    "main.756af292.css.map": "/Product-card/static/css/main.756af292.css.map",
+    "main.5077b105.js.map": "/Product-card/static/js/main.5077b105.js.map",
+    "787.688c647c.chunk.js.map": "/Product-card/static/js/787.688c647c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.5077b105.js"
+  ]
+}
